@@ -4,3 +4,15 @@
 
 layout: home
 ---
+
+<br/>
+
+> 🎵 If you're going to San Francisco, be sure to wear some flowers in your hair 🎵
+
+<br/>
+
+{% include_relative _content/introduction.md %}
+
+---
+
+Add new section as separate markdown with `{{ '{' }}% include_relative _content/section_name.md %}`
