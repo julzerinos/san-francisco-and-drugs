@@ -15,4 +15,16 @@ layout: home
 
 ---
 
+{% include_relative _content/history.md %}
+
+---
+
+{% include_relative _content/trend.md %}
+
+---
+
+{% include_relative _content/district.md %}
+
+---
+
 Add new section as separate markdown with `{{ '{' }}% include_relative _content/section_name.md %}`

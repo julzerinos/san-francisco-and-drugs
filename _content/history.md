@@ -1,0 +1,9 @@
+# A look at the history
+
+We'll take a brief look at the history of San Francisco's attitude to drugs as the underlaying context for the results of the data visualization.
+
+To put it lightly, the city of San Francisco has a problem with drugs. To be exact, its citizens do with an quantitative example ratio of high school students to "only" injection users at 16,000:24,000 (that is `x1.53125` more) in 2019 [[San Francisco Chronicle, "San Francisco — where drug addicts outnumber high school students" Jan 2019](https://www.sfchronicle.com/bayarea/philmatier/article/San-Francisco-where-street-addicts-outnumber-13571702.php)].
+
+It appears that the drug control situation has slipped out of control for the SF authorities with total overdose deaths rising across the years 2006 - 2017. With that come also a rise of drug use refuse (needles) and a great strain on the police department [[BuzzFeedNews, "Open Drug Use Has Exploded In San Francisco, Pushing The City's Liberal Image To The Limit" May 2018](https://www.buzzfeednews.com/article/jimdalrympleii/public-drug-use-san-francisco)]. An interesting note from the article is the introduction of a reduction of heroin possesion from a felony to a misdemeanor. 
+
+What started as a more liberal approach to drug control may have the consequence of a severe drug epidemic which lasts on through 2022 with yet more strategies being applied to battle drug abuse in the city. While out of the time scope of this report, it is helpful to forsee the future - which is a rogue "safe drug consumption site" in the district of Tenderloin [[Los Angeles Times, "In San Francisco’s dystopian Tenderloin, the city goes rogue to slow drug overdoses" Jun 2022](https://www.latimes.com/california/story/2022-06-04/san-francisco-fights-drug-overdoses-tenderloin-fentanyl)].

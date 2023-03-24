@@ -4,7 +4,7 @@ This is a data report commenting on and visualizing the relationship between dru
 
 The data used for this report is sourced from the San Francisco Police Department via the [Police Department Incident Reports: Historical 2003 to May 2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry) data set.
 
-This data set is a collection of reportted crime incidents with (among others) key report information about the crime, such as:
+This data set is a collection of reported crime incidents with (among others) key report information about the crime, such as:
  - data and time of the crime
  - location (in the lat/long system)
  - crime category and description
