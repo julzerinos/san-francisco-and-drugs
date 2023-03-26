@@ -27,9 +27,19 @@ It is noticable that the population number is much higher, but only around 50% o
 As already noticed, the crime level decreased over time. Below there is a simulation showing monthly crime level from 2003 to 2017.
 
 <div style="margin: 0 auto; width: 500px;">
+    <iframe 
+        class="ioda" 
+        width="516px" height="516x" 
+        src="assets/htmls/map.html"
+        style="overflow: hidden;"
+        >
+    </iframe>
+</div>
+
+<!-- <div style="margin: 0 auto; width: 500px;">
     <!-- <iframe 
         class="ioda" 
         width="516px" height="516x" 
         src="assets/htmls/crimes_over_years.html"
         style="overflow: hidden;" ></iframe> -->
-</div>
+</div> -->
