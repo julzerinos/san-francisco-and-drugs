@@ -35,11 +35,3 @@ As already noticed, the crime level decreased over time. Below there is a simula
         >
     </iframe>
 </div>
-
-<!-- <div style="margin: 0 auto; width: 500px;">
-    <!-- <iframe 
-        class="ioda" 
-        width="516px" height="516x" 
-        src="assets/htmls/crimes_over_years.html"
-        style="overflow: hidden;" ></iframe> -->
-</div> -->
