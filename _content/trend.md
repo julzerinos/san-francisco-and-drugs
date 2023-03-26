@@ -22,7 +22,7 @@ As mentioned in one of the articles, drug addicts outnumber high school students
 
 <img class="ioda" src="assets/images/population_plot.png" />
 
-It is noticable that the population number is much higher, but only around 50% of people are aged between 18 and 65, therefore drug addicts make up 0.5 % of the adult population. 
+It is noticable that the population number is much higher, but only around 50% of people are aged between 18 and 65, therefore drug addicts make up 0.5% of the adult population. 
 
 As already noticed, the crime level decreased over time. Below there is a simulation showing monthly crime level from 2003 to 2017.
 
@@ -31,6 +31,5 @@ As already noticed, the crime level decreased over time. Below there is a simula
         class="ioda" 
         width="516px" height="516x" 
         src="assets/htmls/crimes_over_years.html"
-        style="overflow: hidden;"
-    />
+        style="overflow: hidden;" ></iframe>
 </div>

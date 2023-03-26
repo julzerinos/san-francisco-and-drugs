@@ -8,5 +8,6 @@ From (among others) the LA Chronicles, we come to the understanding that the `Te
         width="516px" height="516x" 
         src="assets/htmls/map.html"
         style="overflow: hidden;"
-    />
+        >
+    </iframe>
 </div>
