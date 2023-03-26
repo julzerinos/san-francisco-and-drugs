@@ -1,2 +1,3 @@
 # Summary
 
+The city of San Francisco has been struggling over the years with the high rate of drug-related crimes. Clearly, applied by SF's police strategies to battle drug abuse has resulted in a threefold decrease from 2003 to 2017 in crime level. However, the observed pattern of crime recording would indicate insufficient patrols during holiday periods. Although, the number of drug crimes seems to be quite high, this problem affects only about 0.5% of the working population. The Tenderloin disctrict has been said to be the epicenter of the drug activity, even so, over the years, increased drug activity has spread to adjacent neighbourhoods, sometimes observing even higher level of crime there.
