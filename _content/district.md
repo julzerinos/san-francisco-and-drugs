@@ -11,3 +11,7 @@ From (among others) the LA Chronicles, we come to the understanding that the `Te
         >
     </iframe>
 </div>
+
+Despite Tenderloin being the smallest San Fanciscian district, it has been the leading location for drug report amounts from 2003 up to 2016, only being superceded by the Southern district in 2017.
+
+The year 2008 was particualrly difficult for the damned, with drug incidents reaching `4822` over the course of the year, almost `1.5` time more than in any other district (closest second is Southern, at `1956`).
