@@ -23,11 +23,16 @@ layout: home
 
 ---
 
+{% include_relative _content/people.md %}
+
+---
+
+{% include_relative _content/window.md %}
+
+---
+
 {% include_relative _content/district.md %}
 
 ---
 
 {% include_relative _content/summary.md %}
-
----
-<!-- Add new section as separate markdown with `{{ '{' }}% include_relative _content/section_name.md %}` -->
