@@ -5,7 +5,7 @@ From (among others) the LA Chronicles, we come to the understanding that the `Te
 <div style="margin: 0 auto; width: 500px;">
     <iframe 
         class="ioda" 
-        width="516px" height="516x" 
+        width="516px" height="516px" 
         src="assets/htmls/map.html"
         style="overflow: hidden;"
         >
